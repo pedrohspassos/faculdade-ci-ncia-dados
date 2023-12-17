@@ -1,4 +1,4 @@
-# Pedro Henrique Passos   Numero USP - 12683096
+# Pedro Henrique Passos   
 
 
 # Lendo os conjuntos de dados

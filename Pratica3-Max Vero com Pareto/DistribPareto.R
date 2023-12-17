@@ -1,4 +1,5 @@
-#Pedro Passos (library (Pareto))
+#Pedro Passos 
+#(library (Pareto))
 #FALTA ARRUMAR GRIDE E TESTAR GRAFICOS DA ALEATORIA - ERRO VALOR AUNSENTE NO IF
 
 library(Pareto) #pacote

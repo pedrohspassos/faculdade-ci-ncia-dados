@@ -1,2 +1,2 @@
 # Praticas Ciência de Dados
-- Algumas praticas desenvolvidas durante as aulas mostrando alguns conceitos importantes no dia a dia de um cientista de dados.
+- Repositório contendo implementações de alguns conceitos vistos durante a disciplina de Ciência de Dados
